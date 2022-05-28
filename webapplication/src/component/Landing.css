@@ -1,0 +1,90 @@
+.slider4{
+    width: 25%;
+    height: 25% !important;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  #c1 {
+      margin-bottom: 30px!important;
+      font-family: 'FuturaExtraBold';
+      color: white;
+      font-size: 56px;
+      font-weight: 700;
+      color: rgb(238, 61, 133);
+      text-decoration-style: solid;
+
+  }
+
+#btn1 {
+    margin-bottom: 120px!important;
+    font-family: 'FuturaBold';
+    color: white;
+    font-size: 26px;
+    width: 110px !important;
+    height: 93px !important;
+    color: rgb(238, 61, 133);
+    text-decoration-style: solid;
+}
+#s1 {
+    margin-bottom: 50px!important;
+    font-family: 'FuturaBold';
+    color: white;
+    font-size: 26px;
+    color: rgb(238, 61, 133);
+    text-decoration-style: solid;
+}
+
+
+#content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    margin-left: -15%;
+    height: 50px
+    /* padding: 20px; */
+  }
+  #content1 {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 60%;
+    margin-left: -20%;
+    height: 50px
+    /* padding: 20px; */
+  }
+
+  @font-face {
+    font-family: futuraBold;
+    src: url(../Assets/Futura\ Bold\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraMedium;
+    src: url(../Assets/futura\ medium\ bt.ttf);
+
+}
+
+
+@font-face {
+    font-family: futuraBook;
+    src: url(../Assets/Futura\ Book\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraExtraBold;
+    src: url(../Assets/Futura\ Extra\ Black\ font.ttf);
+
+}

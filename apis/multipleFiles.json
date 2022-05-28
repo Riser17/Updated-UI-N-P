@@ -1,0 +1,624 @@
+{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_32.jpg",
+      "filePath": "uploads\\2022-05-18T19-05-53.842Z-resource_document_mauritshuis_32.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "58.99 KB"
+    }
+  ],
+  "_id": "62854391ad9439212c191b08",
+  "title": "art",
+  "NFTname": "thor",
+  "AssetID": 2,
+  "Amount": 1,
+  "Description": "thunder",
+  "Tags": "s",
+  "CreatorName": "thor",
+  "Owner": "0xd4a26c8c8f45d88a8407f08698e8b212f52fa973",
+  "Listed": false,
+  "tokenId": 55,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_93.jpg",
+      "filePath": "uploads\\2022-05-18T19-31-05.801Z-resource_document_mauritshuis_93.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "74.42 KB"
+    }
+  ],
+  "_id": "628549791a0f0e246818d15d",
+  "title": "art",
+  "NFTname": "thunder",
+  "AssetID": 8,
+  "Amount": 8,
+  "Description": "m",
+  "Tags": "m",
+  "CreatorName": "thor",
+  "Owner": "0x17330cb5a94390b6ac8854b0ad02edfe4a3a5216",
+  "Listed": false,
+  "tokenId": 56,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_277.jpg",
+      "filePath": "uploads\\2022-05-19T04-49-30.531Z-resource_document_mauritshuis_277.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "51.35 KB"
+    }
+  ],
+  "_id": "6285cc5aa96a012380e32fcb",
+  "title": "art",
+  "NFTname": "mike",
+  "AssetID": 12,
+  "Amount": 8,
+  "Description": "art",
+  "Tags": "meike",
+  "CreatorName": "mike",
+  "Owner": "0x17330cb5a94390b6ac8854b0ad02edfe4a3a5216",
+  "Listed": false,
+  "tokenId": 57,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_168.jpg",
+      "filePath": "uploads\\2022-05-19T04-51-11.047Z-resource_document_mauritshuis_168.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "73.32 KB"
+    }
+  ],
+  "_id": "6285ccbfeb729d2ba4b129d5",
+  "title": "art",
+  "NFTname": "gg",
+  "AssetID": 22,
+  "Amount": 6,
+  "Description": "ksdjkds",
+  "Tags": "hh",
+  "CreatorName": "ij",
+  "Owner": "0x17330cb5a94390b6ac8854b0ad02edfe4a3a5216",
+  "Listed": false,
+  "tokenId": 58,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_460.jpg",
+      "filePath": "uploads\\2022-05-19T05-27-35.570Z-resource_document_mauritshuis_460.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "60.8 KB"
+    }
+  ],
+  "_id": "6285d547cb90bd296caaa01d",
+  "title": "art",
+  "NFTname": "thor",
+  "AssetID": 7,
+  "Amount": 78,
+  "Description": "thunder",
+  "Tags": "h",
+  "CreatorName": "thor",
+  "Owner": "0x17330cb5a94390b6ac8854b0ad02edfe4a3a5216",
+  "Listed": false,
+  "tokenId": 59,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_542.jpg",
+      "filePath": "uploads\\2022-05-19T05-29-01.322Z-resource_document_mauritshuis_542.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "47.37 KB"
+    }
+  ],
+  "_id": "6285d59d9b63df2420860016",
+  "title": "art",
+  "NFTname": "thunder",
+  "AssetID": 4,
+  "Amount": 88,
+  "Description": "thunder",
+  "Tags": "thunder",
+  "CreatorName": "thor",
+  "Owner": "0x17330cb5a94390b6ac8854b0ad02edfe4a3a5216",
+  "Listed": false,
+  "tokenId": 60,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_93.jpg",
+      "filePath": "uploads\\2022-05-20T10-05-56.216Z-resource_document_mauritshuis_93.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "74.42 KB"
+    }
+  ],
+  "_id": "62876804e778ca10c4416bff",
+  "title": "art",
+  "NFTname": "Maurit",
+  "AssetID": 2,
+  "Amount": 12,
+  "Description": "Resouce document",
+  "Tags": "Resource",
+  "CreatorName": "Mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 65,
+  "itemId": 0
+}{
+  "files": [],
+  "_id": "628b2a7bc3bb783928a76b77",
+  "title": "ssd",
+  "NFTname": "sw",
+  "AssetID": 22,
+  "Amount": 22,
+  "Description": "www",
+  "Tags": "ww",
+  "CreatorName": "22",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 102,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "illus18.png",
+      "filePath": "uploads\\2022-05-23T10-01-53.256Z-illus18.png",
+      "fileType": "image/png",
+      "fileSize": "66.09 KB"
+    }
+  ],
+  "_id": "628b5b9175f20732f8b2773e",
+  "title": "jjjjjjj",
+  "NFTname": "jjjjjjjjjj",
+  "AssetID": 6,
+  "Amount": 6,
+  "Description": "jjjjjjjjjjjjjjjjj",
+  "Tags": "jjjjjjjjjjjjjj",
+  "CreatorName": "jjjjjjjjjjj",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 108,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "illus22.jpg",
+      "filePath": "uploads\\2022-05-23T10-03-43.285Z-illus22.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "3.91 MB"
+    }
+  ],
+  "_id": "628b5bff75f20732f8b2773f",
+  "title": "at",
+  "NFTname": "dog`",
+  "AssetID": 22,
+  "Amount": 22,
+  "Description": "gg",
+  "Tags": "art1",
+  "CreatorName": "g",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 109,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "file_example_MP3_1MG.mp3",
+      "filePath": "uploads\\2022-05-23T10-07-42.716Z-file_example_MP3_1MG.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "1.09 MB"
+    }
+  ],
+  "_id": "628b5cee75f20732f8b27740",
+  "title": "music ",
+  "NFTname": "1mb",
+  "AssetID": 12,
+  "Amount": 21,
+  "Description": "EE",
+  "Tags": "MB",
+  "CreatorName": "MIKE",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 110,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "file_example_MP3_1MG.mp3",
+      "filePath": "uploads\\2022-05-23T10-43-22.841Z-file_example_MP3_1MG.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "1.09 MB"
+    }
+  ],
+  "_id": "628b654a786a0b350c640466",
+  "title": "MUSIC",
+  "NFTname": "music",
+  "AssetID": 11,
+  "Amount": 22,
+  "Description": "meik",
+  "Tags": "11s",
+  "CreatorName": "mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 111,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "file_example_MP3_1MG.mp3",
+      "filePath": "uploads\\2022-05-23T10-58-36.895Z-file_example_MP3_1MG.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "1.09 MB"
+    }
+  ],
+  "_id": "628b68dc786a0b350c640467",
+  "title": "kkk",
+  "NFTname": "kkkkkk",
+  "AssetID": 1,
+  "Amount": 22,
+  "Description": "kkkkkkkkkkkkkkkkkkkkk",
+  "Tags": "kkkkkk",
+  "CreatorName": "kkkkkk",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 112,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_1096.jpg",
+      "filePath": "uploads\\2022-05-23T12-37-48.054Z-resource_document_mauritshuis_1096.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "46.48 KB"
+    }
+  ],
+  "_id": "628b801c6696d83bf4e75a22",
+  "title": "art",
+  "NFTname": "Resource",
+  "AssetID": 123,
+  "Amount": 3,
+  "Description": "Doc",
+  "Tags": "Resource",
+  "CreatorName": "MIKE",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 113,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_1096.jpg",
+      "filePath": "uploads\\2022-05-23T12-39-07.373Z-resource_document_mauritshuis_1096.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "46.48 KB"
+    }
+  ],
+  "_id": "628b806b6696d83bf4e75a23",
+  "title": "art",
+  "NFTname": "art6",
+  "AssetID": 1236,
+  "Amount": 7,
+  "Description": "Doc",
+  "Tags": "doc",
+  "CreatorName": "MIKE",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 114,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "file_example_MP3_1MG.mp3",
+      "filePath": "uploads\\2022-05-23T12-55-20.031Z-file_example_MP3_1MG.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "1.09 MB"
+    }
+  ],
+  "_id": "628b84386696d83bf4e75a24",
+  "title": "w",
+  "NFTname": "qwq",
+  "AssetID": 22,
+  "Amount": 22,
+  "Description": "sdadas",
+  "Tags": "ww",
+  "CreatorName": "sdx",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 115,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_32.jpg",
+      "filePath": "uploads\\2022-05-24T08-57-46.237Z-resource_document_mauritshuis_32.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "58.99 KB"
+    }
+  ],
+  "_id": "628c9e0ae7992d2d646b5d8d",
+  "Category": "art",
+  "NFTname": "m",
+  "Royalty": 4,
+  "Amount": 33,
+  "Description": "doc",
+  "Tags": "m",
+  "CreatorName": "mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 20,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_204.jpg",
+      "filePath": "uploads\\2022-05-24T09-08-47.227Z-resource_document_mauritshuis_204.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "75.99 KB"
+    }
+  ],
+  "_id": "628ca09f24f1a904ec350983",
+  "Category": "art",
+  "NFTname": "shuis",
+  "Royalty": 5,
+  "Amount": 78,
+  "Description": "doc",
+  "Tags": "1800",
+  "CreatorName": "mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 21,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_285.jpg",
+      "filePath": "uploads\\2022-05-24T10-06-28.491Z-resource_document_mauritshuis_285.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "47.41 KB"
+    }
+  ],
+  "_id": "628cae2424f1a904ec350984",
+  "Category": "art",
+  "NFTname": "demo1",
+  "Royalty": 5,
+  "Amount": 8,
+  "Description": "doc",
+  "Tags": "rel",
+  "CreatorName": "mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 22,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "file_example_MP3_1MG.mp3",
+      "filePath": "uploads\\2022-05-24T10-08-08.519Z-file_example_MP3_1MG.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "1.09 MB"
+    }
+  ],
+  "_id": "628cae8824f1a904ec350985",
+  "Category": "music",
+  "NFTname": "lite",
+  "Royalty": 3,
+  "Amount": 6,
+  "Description": "doc",
+  "Tags": "mic",
+  "CreatorName": "mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 23,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "sample-12s.mp3",
+      "filePath": "uploads\\2022-05-24T10-13-09.075Z-sample-12s.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "205.47 KB"
+    }
+  ],
+  "_id": "628cafb524f1a904ec350986",
+  "Category": "music",
+  "NFTname": "sample",
+  "Royalty": 3,
+  "Amount": 89,
+  "Description": "mp3",
+  "Tags": "file",
+  "CreatorName": "mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 24,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "sample-15s.mp3",
+      "filePath": "uploads\\2022-05-24T10-15-35.474Z-sample-15s.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "307.45 KB"
+    }
+  ],
+  "_id": "628cb04724f1a904ec350987",
+  "Category": "music",
+  "NFTname": "Fav music",
+  "Royalty": 10,
+  "Amount": 7,
+  "Description": "fav doc",
+  "Tags": "fav",
+  "CreatorName": "mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 25,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_220.jpg",
+      "filePath": "uploads\\2022-05-25T07-39-10.835Z-resource_document_mauritshuis_220.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "35.99 KB"
+    }
+  ],
+  "_id": "628ddd1ea469f11728bbb0c0",
+  "Category": "art",
+  "NFTname": "dem",
+  "Royalty": 10,
+  "Amount": 66,
+  "Description": "mike",
+  "Tags": "mm",
+  "CreatorName": "ddd",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 32,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "file_example_MP3_1MG.mp3",
+      "filePath": "uploads\\2022-05-26T19-16-07.308Z-file_example_MP3_1MG.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "1.09 MB"
+    }
+  ],
+  "_id": "628fd1f79b183c2b4423aa6a",
+  "Category": "music",
+  "NFTname": "Ha",
+  "Royalty": 7,
+  "Amount": 8,
+  "Description": "hh",
+  "Tags": "ja",
+  "CreatorName": "mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 36,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "file_example_MP3_1MG.mp3",
+      "filePath": "uploads\\2022-05-26T19-16-36.732Z-file_example_MP3_1MG.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "1.09 MB"
+    }
+  ],
+  "_id": "628fd2149b183c2b4423aa6b",
+  "Category": "music",
+  "NFTname": "s",
+  "Royalty": 8,
+  "Amount": 7,
+  "Description": "s",
+  "Tags": "s",
+  "CreatorName": "s",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 37,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_1154.jpg",
+      "filePath": "uploads\\2022-05-28T07-19-36.086Z-resource_document_mauritshuis_1154.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "50.15 KB"
+    }
+  ],
+  "_id": "6291cd08992aa804385d5a45",
+  "Category": "art",
+  "NFTname": "orange",
+  "Royalty": 5,
+  "Amount": 2,
+  "Description": "ORANGE NFT ",
+  "Tags": "fruit",
+  "CreatorName": "Mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 46,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "sample-15s.mp3",
+      "filePath": "uploads\\2022-05-28T07-22-12.083Z-sample-15s.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "307.45 KB"
+    }
+  ],
+  "_id": "6291cda4992aa804385d5a46",
+  "Category": "music",
+  "NFTname": "1 min",
+  "Royalty": 8,
+  "Amount": 3,
+  "Description": "music sample",
+  "Tags": "samplemp3",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 47,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_1056.jpg",
+      "filePath": "uploads\\2022-05-28T07-39-23.800Z-resource_document_mauritshuis_1056.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "47.04 KB"
+    }
+  ],
+  "_id": "6291d1ab992aa804385d5a47",
+  "Category": "art",
+  "NFTname": "Royal plate",
+  "Royalty": 8,
+  "Amount": 12,
+  "Description": "royal",
+  "Tags": "royal",
+  "CreatorName": "MIKE",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 48,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_1033.jpg",
+      "filePath": "uploads\\2022-05-28T07-41-14.562Z-resource_document_mauritshuis_1033.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "36.7 KB"
+    }
+  ],
+  "_id": "6291d21a992aa804385d5a48",
+  "Category": "art",
+  "NFTname": "Maurit",
+  "Royalty": 7,
+  "Amount": 22,
+  "Description": "Land",
+  "Tags": "land",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 49,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "file_example_MP3_1MG.mp3",
+      "filePath": "uploads\\2022-05-28T07-42-55.167Z-file_example_MP3_1MG.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "1.09 MB"
+    }
+  ],
+  "_id": "6291d27f992aa804385d5a49",
+  "Category": "music",
+  "NFTname": "Unique music",
+  "Royalty": 7,
+  "Amount": 7,
+  "Description": "music",
+  "Tags": "music",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 50,
+  "itemId": 0
+}

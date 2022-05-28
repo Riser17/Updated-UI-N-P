@@ -1,0 +1,30 @@
+#headings {
+    font-family: 'futuraBold';
+    color: white;
+}
+
+
+@font-face {
+    font-family: futuraBold;
+    src: url(../Assets/Futura\ Bold\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraMedium;
+    src: url(../Assets/futura\ medium\ bt.ttf);
+
+}
+
+
+@font-face {
+    font-family: futuraBook;
+    src: url(../Assets/Futura\ Book\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraExtraBold;
+    src: url(../Assets/Futura\ Extra\ Black\ font.ttf);
+
+}

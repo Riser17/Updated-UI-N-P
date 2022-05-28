@@ -1,0 +1,66 @@
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+    color: #000;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 1;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+#sortprize.active
+{
+  background-color:  rgb(238, 61, 133)!important;
+  }
+
+  #card {
+      margin-left: 1px ;
+      margin-right: 1px;
+  }
+
+  #example1 {
+    
+    padding: 10px;
+    border-radius: 50px 0px;
+  }
+  #example2 {
+    
+    background-color: rgb(241, 237, 237);
+    border-radius: 50px 0px;
+  }
+ 
+  #example2img {
+    border-top-left-radius: 50px;
+  } 
+
+#price_prod{
+    background-color: rgba(116, 9, 138, 0.87);
+    border:solid white 2px;
+} 
+
+.minmax {
+    background-color:  rgba(116, 9, 138, 0.87);
+    box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+}
+#searchInput{
+    background-color: rgba(116, 9, 138, 0.87);
+    border: none;
+}
+#searchDiv{
+    background-color:  rgba(116, 9, 138, 0.87);
+    box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+}
+#list {
+    background-color:  rgba(116, 9, 138, 0.87);
+    box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+}
+
